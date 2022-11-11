@@ -10,7 +10,7 @@ First, you need to learn the alphabet. It's not that hard, but it's not the same
 
 For getting basic vocabulary and a general feel for the language, I recommend using Anki. I made a deck generator that can be used to make a Czech-English (or Czech-German/Spanish/...) deck [here](https://github.com/Vuizur/tatoeba-to-anki).
 
-## Intermediate-Advanced
+## Intermediate
 
 For practicing listening, my favourite is the podcast [Čeština s Michalem](https://cesky.buzzsprout.com/). The host has a very clear pronunciation, and it is easy to follow. 
 
