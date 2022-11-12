@@ -1,12 +1,13 @@
 Title: How to learn Czech
 Date: 2022-10-16 12:44
-Category: Czech
+Category: Language Learning
+Tags: Czech, Resources
 
-Learning Czech isn't super easy. There are not many people speaking it, and not that many resources to learn it. Here is what I found to be useful.
+Learning Czech isn't super easy. Not many people speak it, and only a few resources exist. Here is what I found to be useful.
 
 ## The absolute beginning
 
-First, you need to learn the alphabet. It's not that hard, but it's not the same as English. You can find an alright overview of the alphabet [here](https://www.omniglot.com/writing/czech.htm), especially the linked video is useful.
+First, you need to learn the alphabet. It's not that hard, but there are some differences to English. You can find an alright overview of the alphabet [here](https://www.omniglot.com/writing/czech.htm), especially the linked video is useful.
 
 For getting basic vocabulary and a general feel for the language, I recommend using Anki. I made a deck generator that can be used to make a Czech-English (or Czech-German/Spanish/...) deck [here](https://github.com/Vuizur/tatoeba-to-anki).
 
